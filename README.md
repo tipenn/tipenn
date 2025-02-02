@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm Tipen!<br>🚀 Aspiring Full-Stack Developer | Lifelong Learner<br>🌱 Currently Learning: .NET, Express.js<br>👷‍♂️ Current Project: Developing a Recommender System<br>🏫 Education: BS in Information Technology at Pamantasan ng Lungsod ng Maynila<br>📫 Get in Touch: christephendejesus13@gmail.com
+👋 Hello, I'm Tipen!<br>🚀 Currently Learning: .NET<br>👷‍♂🏫 Education: BS in Information Technology at Pamantasan ng Lungsod ng Maynila<br>📫 Get in Touch: christephendejesus13@gmail.com
 
 
 ## 🌐 Socials:
